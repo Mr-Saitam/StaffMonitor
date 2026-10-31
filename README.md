@@ -81,21 +81,7 @@ Full documentation is available at:
 
 It includes guides covering installation, configuration, commands and permissions, dashboard access, Pterodactyl integration, MySQL configuration, privacy, and frequently asked questions.
 
-## Building from Source
 
-You need JDK 21 and Maven.
-
-```bash
-git clone https://github.com/Mr-Saitam/StaffMonitor.git
-cd StaffMonitor
-mvn clean verify
-```
-
-The compiled JAR will be available at:
-
-```text
-staffmonitor-core/target/StaffMonitor.jar
-```
 
 ## Reporting Issues
 
