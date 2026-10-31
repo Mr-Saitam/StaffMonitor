@@ -18,7 +18,9 @@ If you discover a security vulnerability in StaffMonitor, please report it respo
 Instead, contact the developer directly:
 
 - **GitHub:** [@Mr-Saitam](https://github.com/Mr-Saitam)
-
+- **Email:** [contact@mrsaitam.com](mailto:contact@mrsaitam.com)
+- **Discord:** [Contact MrSaitam](https://discord.com/users/779691769687834635)
+  
 When reporting a vulnerability, please include:
 
 - A description of the vulnerability.
